@@ -7,7 +7,6 @@
     "dev":"next",
     "build": "next build",
     "start": "next start && next export",
-  {
     "engines": {
       "node": "14.16.1"
     }

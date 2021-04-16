@@ -1,17 +1,12 @@
 {
   "name": "prueba2next",
   "version": "1.0.0",
-  "description": "nada",
+  "description": "",
   "main": "index.js",
-  "engines": {
-    "node": ">=0.10.3 <15"
-  },
-  },
   "scripts": {
     "dev":"next",
     "build": "next build",
     "start": "next start && next export"
-  }
   },
   "keywords": [],
   "author": "",
